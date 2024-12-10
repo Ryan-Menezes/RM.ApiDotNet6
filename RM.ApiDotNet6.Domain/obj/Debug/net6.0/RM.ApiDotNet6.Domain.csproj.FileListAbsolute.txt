@@ -1,0 +1,11 @@
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\bin\Debug\net6.0\RM.ApiDotNet6.Domain.deps.json
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\bin\Debug\net6.0\RM.ApiDotNet6.Domain.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\bin\Debug\net6.0\RM.ApiDotNet6.Domain.pdb
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\RM.ApiDotNet6.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\RM.ApiDotNet6.Domain.AssemblyInfoInputs.cache
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\RM.ApiDotNet6.Domain.AssemblyInfo.cs
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\RM.ApiDotNet6.Domain.csproj.CoreCompileInputs.cache
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\RM.ApiDotNet6.Domain.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\refint\RM.ApiDotNet6.Domain.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\RM.ApiDotNet6.Domain.pdb
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Domain\obj\Debug\net6.0\ref\RM.ApiDotNet6.Domain.dll

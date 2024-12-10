@@ -1,0 +1,15 @@
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\bin\Debug\net6.0\RM.ApiDotNer6.Infra.Data.deps.json
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\bin\Debug\net6.0\RM.ApiDotNer6.Infra.Data.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\bin\Debug\net6.0\RM.ApiDotNer6.Infra.Data.pdb
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\bin\Debug\net6.0\RM.ApiDotNet6.Domain.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\bin\Debug\net6.0\RM.ApiDotNet6.Domain.pdb
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.csproj.AssemblyReference.cache
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.AssemblyInfoInputs.cache
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.AssemblyInfo.cs
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.csproj.CoreCompileInputs.cache
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDo.5428E557.Up2Date
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\refint\RM.ApiDotNer6.Infra.Data.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.pdb
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\ref\RM.ApiDotNer6.Infra.Data.dll

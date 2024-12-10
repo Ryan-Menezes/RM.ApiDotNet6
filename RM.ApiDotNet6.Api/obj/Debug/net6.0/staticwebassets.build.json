@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xzm6c4eRTW8y9oU3UgHPdMv+apuk8IwrWdhkHFRKGIk=",
+  "Source": "RM.ApiDotNet6.Api",
+  "BasePath": "_content/RM.ApiDotNet6.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

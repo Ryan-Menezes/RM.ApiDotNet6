@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Infra.IoC\\RM.ApiDotNet6.Infra.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj",
+        "projectName": "RM.ApiDotNer6.Infra.Data",
+        "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\ryan.menezes\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryan.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj": {
+                "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj",
+        "projectName": "RM.ApiDotNet6.Application",
+        "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj",
+        "packagesPath": "C:\\Users\\ryan.menezes\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryan.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj": {
+                "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj",
+        "projectName": "RM.ApiDotNet6.Domain",
+        "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj",
+        "packagesPath": "C:\\Users\\ryan.menezes\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryan.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Infra.IoC\\RM.ApiDotNet6.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Infra.IoC\\RM.ApiDotNet6.Infra.IoC.csproj",
+        "projectName": "RM.ApiDotNet6.Infra.IoC",
+        "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Infra.IoC\\RM.ApiDotNet6.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\ryan.menezes\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryan.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj": {
+                "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj"
+              },
+              "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj": {
+                "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj"
+              },
+              "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj": {
+                "projectPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonController",
+    "Method": "Post",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personDTO",
+        "Type": "RM.ApiDotNet6.Application.DTOs.PersonDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
