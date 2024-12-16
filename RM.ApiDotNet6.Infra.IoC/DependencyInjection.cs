@@ -30,6 +30,8 @@ namespace RM.ApiDotNet6.Infra.IoC
             services.AddAutoMapper(typeof(DomainToDtoMapping));
 
             services.AddScoped<IPersonService, PersonService>();
+            services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<IPurchaseService, PurchaseService>();
 
             return services;
         }

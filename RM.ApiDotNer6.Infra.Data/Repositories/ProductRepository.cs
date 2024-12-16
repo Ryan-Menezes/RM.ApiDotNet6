@@ -43,5 +43,10 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
             await _db.SaveChangesAsync();
             return product;
         }
+
+        public async Task<Product> GetByCodErpAsync(string codErp)
+        {
+            return await _db.Products.FirstOrDefaultAsync(x => x.CodErp == codErp);
+        }
     }
 }

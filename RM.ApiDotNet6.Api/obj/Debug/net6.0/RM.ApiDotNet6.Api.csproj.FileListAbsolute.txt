@@ -47,3 +47,4 @@ C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\RM.ApiDotNet6.Api.pdb
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\RM.ApiDotNet6.Api.genruntimeconfig.cache
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\ref\RM.ApiDotNet6.Api.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\RM.ApiDotNet6.Api.sourcelink.json

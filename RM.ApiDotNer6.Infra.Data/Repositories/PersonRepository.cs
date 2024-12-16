@@ -43,5 +43,10 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
             await _db.SaveChangesAsync();
             return person;
         }
+
+        public async Task<Person> GetByDocumentAsync(string document)
+        {
+            return await _db.People.FirstOrDefaultAsync(x => x.Document == document);
+        }
     }
 }

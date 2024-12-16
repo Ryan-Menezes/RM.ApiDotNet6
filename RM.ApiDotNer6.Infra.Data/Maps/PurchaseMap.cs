@@ -26,7 +26,8 @@ namespace RM.ApiDotNer6.Infra.Data.Maps
 
             builder
                 .Property(x => x.Date)
-                .HasColumnName("data");
+                .HasColumnType("date")
+                .HasColumnName("data_compra");
 
             builder
                 .HasOne(x => x.Person)

@@ -17,3 +17,4 @@ C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Infra.IoC\obj\Debug\n
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Infra.IoC\obj\Debug\net6.0\refint\RM.ApiDotNet6.Infra.IoC.dll
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Infra.IoC\obj\Debug\net6.0\RM.ApiDotNet6.Infra.IoC.pdb
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Infra.IoC\obj\Debug\net6.0\ref\RM.ApiDotNet6.Infra.IoC.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Infra.IoC\obj\Debug\net6.0\RM.ApiDotNet6.Infra.IoC.sourcelink.json

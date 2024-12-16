@@ -13,3 +13,4 @@ C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\refint\RM.ApiDotNer6.Infra.Data.dll
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.pdb
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\ref\RM.ApiDotNer6.Infra.Data.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNer6.Infra.Data\obj\Debug\net6.0\RM.ApiDotNer6.Infra.Data.sourcelink.json

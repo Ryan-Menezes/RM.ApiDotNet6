@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonController",
-    "Method": "Post",
+    "Method": "PostAsync",
     "RelativePath": "api/Person",
     "HttpMethod": "POST",
     "IsController": true,
@@ -10,6 +10,212 @@
       {
         "Name": "personDTO",
         "Type": "RM.ApiDotNet6.Application.DTOs.PersonDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Person",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Person",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personDTO",
+        "Type": "RM.ApiDotNet6.Application.DTOs.PersonDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.ProductController",
+    "Method": "PostAsync",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDTO",
+        "Type": "RM.ApiDotNet6.Application.DTOs.ProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.ProductController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.ProductController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDTO",
+        "Type": "RM.ApiDotNet6.Application.DTOs.ProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.ProductController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.ProductController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PurchaseController",
+    "Method": "PostAsync",
+    "RelativePath": "api/Purchase",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "purchaseDTO",
+        "Type": "RM.ApiDotNet6.Application.DTOs.PurchaseDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PurchaseController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Purchase",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PurchaseController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Purchase",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "purchaseDTO",
+        "Type": "RM.ApiDotNet6.Application.DTOs.PurchaseDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PurchaseController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Purchase/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PurchaseController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Purchase/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

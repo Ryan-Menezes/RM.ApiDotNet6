@@ -1,4 +1,5 @@
 using RM.ApiDotNet6.Infra.IoC;
+using System.Text.Json.Serialization;
 
 namespace RM.ApiDotNet6.Api
 {
@@ -16,6 +17,10 @@ namespace RM.ApiDotNet6.Api
             builder.Services.AddSwaggerGen();
             builder.Services.AddInfrastructure(builder.Configuration);
             builder.Services.AddServices(builder.Configuration);
+            builder.Services.AddMvc().AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
+            });
 
             var app = builder.Build();
 

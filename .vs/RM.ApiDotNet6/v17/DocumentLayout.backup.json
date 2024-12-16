@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.application\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|solutionrelative:rm.apidotnet6.application\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.application\\dtos\\purchasedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|solutionrelative:rm.apidotnet6.application\\dtos\\purchasedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.application\\services\\interfaces\\ipurchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|solutionrelative:rm.apidotnet6.application\\services\\interfaces\\ipurchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F76A2B-8ED6-45C8-9CBA-20564159EE89}|RM.ApiDotNet6.Infra.IoC\\RM.ApiDotNet6.Infra.IoC.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F76A2B-8ED6-45C8-9CBA-20564159EE89}|RM.ApiDotNet6.Infra.IoC\\RM.ApiDotNet6.Infra.IoC.csproj|solutionrelative:rm.apidotnet6.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795A90B3-BC7C-4A03-98A2-F00701413273}|RM.ApiDotNet6.Api\\RM.ApiDotNet6.Api.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.api\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795A90B3-BC7C-4A03-98A2-F00701413273}|RM.ApiDotNet6.Api\\RM.ApiDotNet6.Api.csproj|solutionrelative:rm.apidotnet6.api\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Infra.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "RM.ApiDotNet6.Infra.IoC\\DependencyInjection.cs",
+              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Infra.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "RM.ApiDotNet6.Infra.IoC\\DependencyInjection.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:47:56.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPurchaseService.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\Services\\Interfaces\\IPurchaseService.cs",
+              "RelativeDocumentMoniker": "RM.ApiDotNet6.Application\\Services\\Interfaces\\IPurchaseService.cs",
+              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\Services\\Interfaces\\IPurchaseService.cs",
+              "RelativeToolTip": "RM.ApiDotNet6.Application\\Services\\Interfaces\\IPurchaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:40:59.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseDetailDTO.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\DTOs\\PurchaseDetailDTO.cs",
+              "RelativeDocumentMoniker": "RM.ApiDotNet6.Application\\DTOs\\PurchaseDetailDTO.cs",
+              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\DTOs\\PurchaseDetailDTO.cs",
+              "RelativeToolTip": "RM.ApiDotNet6.Application\\DTOs\\PurchaseDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:30:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\Services\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "RM.ApiDotNet6.Application\\Services\\PurchaseService.cs",
+              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\Services\\PurchaseService.cs",
+              "RelativeToolTip": "RM.ApiDotNet6.Application\\Services\\PurchaseService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwGAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:28:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Api\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "RM.ApiDotNet6.Api\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Api\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "RM.ApiDotNet6.Api\\Controllers\\PurchaseController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:16:01.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

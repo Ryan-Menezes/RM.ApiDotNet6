@@ -21,6 +21,14 @@ namespace RM.ApiDotNet6.Domain.Entities
 
             Id = id;
         }
+        public void Edit(int id, int personId, int productId)
+        {
+            DomainValidationException.When(id < 0, "Id inválido");
+
+            Validation(personId, productId);
+
+            Id = id;
+        }
 
         private void Validation(int personId, int productId)
         {
