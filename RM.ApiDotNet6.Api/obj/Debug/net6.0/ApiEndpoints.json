@@ -74,6 +74,37 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonController",
+    "Method": "GetPagedAsync",
+    "RelativePath": "api/Person/paged",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderByProperty",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RM.ApiDotNet6.Api.Controllers.ProductController",
     "Method": "PostAsync",
     "RelativePath": "api/Product",

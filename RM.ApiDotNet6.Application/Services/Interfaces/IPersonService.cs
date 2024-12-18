@@ -1,4 +1,7 @@
 ﻿using RM.ApiDotNet6.Application.DTOs;
+using RM.ApiDotNet6.Domain.Entities;
+using RM.ApiDotNet6.Domain.FiltersDb;
+using RM.ApiDotNet6.Domain.Repositories;
 
 namespace RM.ApiDotNet6.Application.Services.Interfaces
 {
@@ -9,5 +12,6 @@ namespace RM.ApiDotNet6.Application.Services.Interfaces
         Task<ResultService<PersonDTO>> GetByIdAsync(int id);
         Task<ResultService> UpdateAsync(PersonDTO personDTO);
         Task<ResultService> DeleteAsync(int id);
+        Task<ResultService<PagedBaseResponseDTO<PersonDTO>>> GetPagedAsync(PersonFilterDb request);
     }
 }

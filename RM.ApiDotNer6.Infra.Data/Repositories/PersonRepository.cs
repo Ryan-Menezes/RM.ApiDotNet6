@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RM.ApiDotNer6.Infra.Data.Context;
 using RM.ApiDotNet6.Domain.Entities;
+using RM.ApiDotNet6.Domain.FiltersDb;
 using RM.ApiDotNet6.Domain.Repositories;
 
 namespace RM.ApiDotNer6.Infra.Data.Repositories
@@ -47,6 +48,16 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
         public async Task<Person> GetByDocumentAsync(string document)
         {
             return await _db.People.FirstOrDefaultAsync(x => x.Document == document);
+        }
+
+        public async Task<PagedBaseResponse<Person>> GetPagedAsync(PersonFilterDb request)
+        {
+            var query = _db.People.AsQueryable();
+
+            if (!string.IsNullOrEmpty(request.Name))
+                query = query.Where(x => x.Name.Contains(request.Name));
+
+            return await PagedBaseResponseHelper.GetResponseAsync<PagedBaseResponse<Person>, Person>(query, request);
         }
     }
 }
