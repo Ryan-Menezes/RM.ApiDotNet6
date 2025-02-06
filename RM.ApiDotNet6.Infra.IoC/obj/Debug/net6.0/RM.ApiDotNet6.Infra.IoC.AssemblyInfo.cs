@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RM.ApiDotNet6.Infra.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+744adbb1284d23af99bef93dec63567e3a9ccee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef8e1421162998148bee19e1145dff7eab9f6f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RM.ApiDotNet6.Infra.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RM.ApiDotNet6.Infra.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CBBB9F8C-6824-48B0-89A3-A2059E6DC36F}|RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.domain\\filtersdb\\personfilterdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBBB9F8C-6824-48B0-89A3-A2059E6DC36F}|RM.ApiDotNet6.Domain\\RM.ApiDotNet6.Domain.csproj|solutionrelative:rm.apidotnet6.domain\\filtersdb\\personfilterdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{795A90B3-BC7C-4A03-98A2-F00701413273}|RM.ApiDotNet6.Api\\RM.ApiDotNet6.Api.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{795A90B3-BC7C-4A03-98A2-F00701413273}|RM.ApiDotNet6.Api\\RM.ApiDotNet6.Api.csproj|solutionrelative:rm.apidotnet6.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E347A8B-A1F0-4C0B-83F3-10E99658212F}|RM.ApiDotNet6.Application\\RM.ApiDotNet6.Application.csproj|solutionrelative:rm.apidotnet6.application\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26AC27D-B988-4BAD-97FF-FFCA22D93865}|RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotner6.infra.data\\repositories\\pagedbaseresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26AC27D-B988-4BAD-97FF-FFCA22D93865}|RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj|solutionrelative:rm.apidotner6.infra.data\\repositories\\pagedbaseresponsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26AC27D-B988-4BAD-97FF-FFCA22D93865}|RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotner6.infra.data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26AC27D-B988-4BAD-97FF-FFCA22D93865}|RM.ApiDotNer6.Infra.Data\\RM.ApiDotNer6.Infra.Data.csproj|solutionrelative:rm.apidotner6.infra.data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Api\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "RM.ApiDotNet6.Api\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Api\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "RM.ApiDotNet6.Api\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAcwFgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:23:49.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "RM.ApiDotNet6.Application\\Services\\PersonService.cs",
-              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Application\\Services\\PersonService.cs",
-              "RelativeToolTip": "RM.ApiDotNet6.Application\\Services\\PersonService.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:52:17.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\Repositories\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "RM.ApiDotNer6.Infra.Data\\Repositories\\PersonRepository.cs",
-              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\Repositories\\PersonRepository.cs",
-              "RelativeToolTip": "RM.ApiDotNer6.Infra.Data\\Repositories\\PersonRepository.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAzwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:37:32.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PagedBaseResponseHelper.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\Repositories\\PagedBaseResponseHelper.cs",
-              "RelativeDocumentMoniker": "RM.ApiDotNer6.Infra.Data\\Repositories\\PagedBaseResponseHelper.cs",
-              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNer6.Infra.Data\\Repositories\\PagedBaseResponseHelper.cs",
-              "RelativeToolTip": "RM.ApiDotNer6.Infra.Data\\Repositories\\PagedBaseResponseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:57:48.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonFilterDb.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\FiltersDb\\PersonFilterDb.cs",
-              "RelativeDocumentMoniker": "RM.ApiDotNet6.Domain\\FiltersDb\\PersonFilterDb.cs",
-              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Domain\\FiltersDb\\PersonFilterDb.cs",
-              "RelativeToolTip": "RM.ApiDotNet6.Domain\\FiltersDb\\PersonFilterDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:38:22.854Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
