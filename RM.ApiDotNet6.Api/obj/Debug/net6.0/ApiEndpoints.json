@@ -251,5 +251,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.UserController",
+    "Method": "PostAsync",
+    "RelativePath": "api/User/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795A90B3-BC7C-4A03-98A2-F00701413273}|RM.ApiDotNet6.Api\\RM.ApiDotNet6.Api.csproj|c:\\laragon\\www\\estudo\\projetos\\rm.apidotnet6\\rm.apidotnet6.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795A90B3-BC7C-4A03-98A2-F00701413273}|RM.ApiDotNet6.Api\\RM.ApiDotNet6.Api.csproj|solutionrelative:rm.apidotnet6.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RM.ApiDotNet6.Api\\Program.cs",
+              "ToolTip": "C:\\laragon\\www\\estudo\\Projetos\\RM.ApiDotNet6\\RM.ApiDotNet6.Api\\Program.cs",
+              "RelativeToolTip": "RM.ApiDotNet6.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:34:54.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

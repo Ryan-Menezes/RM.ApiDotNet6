@@ -48,3 +48,14 @@ C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\RM.ApiDotNet6.Api.genruntimeconfig.cache
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\ref\RM.ApiDotNet6.Api.dll
 C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\obj\Debug\net6.0\RM.ApiDotNet6.Api.sourcelink.json
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.Bcl.Memory.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\laragon\www\estudo\Projetos\RM.ApiDotNet6\RM.ApiDotNet6.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

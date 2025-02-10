@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using RM.ApiDotNet6.Application.DTOs;
 using RM.ApiDotNet6.Application.Services.Interfaces;
 
