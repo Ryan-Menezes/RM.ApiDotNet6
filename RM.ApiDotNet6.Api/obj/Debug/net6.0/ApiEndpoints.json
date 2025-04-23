@@ -105,6 +105,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "RM.ApiDotNet6.Api.Controllers.PersonImageController",
+    "Method": "SaveImage",
+    "RelativePath": "api/PersonImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personImageDTO",
+        "Type": "RM.ApiDotNet6.Application.DTOs.PersonImageDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RM.ApiDotNet6.Api.Controllers.ProductController",
     "Method": "PostAsync",
     "RelativePath": "api/Product",

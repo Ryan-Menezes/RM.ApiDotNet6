@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RM.ApiDotNet6.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efac5434c83ae636c7de5c02aa2e3fd0b425e9a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d88d30dbd12ea8736cc9bb11b097140a7df07a9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RM.ApiDotNet6.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RM.ApiDotNet6.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

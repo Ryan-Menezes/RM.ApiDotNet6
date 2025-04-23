@@ -13,7 +13,7 @@ namespace RM.ApiDotNer6.Infra.Data.Maps
 
             builder
                 .Property(x => x.Id)
-                .HasColumnName("idusuario");
+                .HasColumnName("id");
 
             builder
                 .Property(x => x.Email)

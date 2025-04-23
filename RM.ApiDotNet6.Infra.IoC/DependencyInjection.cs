@@ -26,6 +26,7 @@ namespace RM.ApiDotNet6.Infra.IoC
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<ITokenGenerator, TokenGenerator>();
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IPersonImageRepository, PersonImageRepository>();
 
             return services;
         }
@@ -38,6 +39,7 @@ namespace RM.ApiDotNet6.Infra.IoC
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<IPurchaseService, PurchaseService>();
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IPersonImageService, PersonImageService>();
 
             return services;
         }
