@@ -22,11 +22,11 @@ namespace RM.ApiDotNer6.Infra.Data.Maps
 
             builder
                 .Property(x => x.ImageUri)
-                .HasColumnName("uri");
+                .HasColumnName("image_uri");
 
             builder
-                .Property(x => x.ImageBase)
-                .HasColumnName("base");
+                .Property(x => x.ImageBase64)
+                .HasColumnName("image_base_64");
 
             builder
                 .HasOne(x => x.Person)

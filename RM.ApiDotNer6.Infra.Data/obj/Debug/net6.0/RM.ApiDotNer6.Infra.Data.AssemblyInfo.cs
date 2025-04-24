@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RM.ApiDotNer6.Infra.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d88d30dbd12ea8736cc9bb11b097140a7df07a9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c1075137b35a6f880ccb1845e73eb09df9f4fc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RM.ApiDotNer6.Infra.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RM.ApiDotNer6.Infra.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

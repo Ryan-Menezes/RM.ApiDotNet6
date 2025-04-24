@@ -3,11 +3,13 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using RM.ApiDotNer6.Infra.Data.Authentication;
 using RM.ApiDotNer6.Infra.Data.Context;
+using RM.ApiDotNer6.Infra.Data.Integrations;
 using RM.ApiDotNer6.Infra.Data.Repositories;
 using RM.ApiDotNet6.Application.Mappings;
 using RM.ApiDotNet6.Application.Services;
 using RM.ApiDotNet6.Application.Services.Interfaces;
 using RM.ApiDotNet6.Domain.Authentication;
+using RM.ApiDotNet6.Domain.Integrations;
 using RM.ApiDotNet6.Domain.Repositories;
 
 namespace RM.ApiDotNet6.Infra.IoC
@@ -27,6 +29,7 @@ namespace RM.ApiDotNet6.Infra.IoC
             services.AddScoped<ITokenGenerator, TokenGenerator>();
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IPersonImageRepository, PersonImageRepository>();
+            services.AddScoped<ISavePersonImage, SavePersonImage>();
 
             return services;
         }
