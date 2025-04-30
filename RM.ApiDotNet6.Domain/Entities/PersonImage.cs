@@ -2,7 +2,7 @@
 
 namespace RM.ApiDotNet6.Domain.Entities
 {
-    public class PersonImage
+    public sealed class PersonImage
     {
         public int Id { get; private set; }
         public int PersonId { get; private set; }

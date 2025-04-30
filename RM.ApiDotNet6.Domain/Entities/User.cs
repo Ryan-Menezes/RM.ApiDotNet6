@@ -2,15 +2,18 @@
 
 namespace RM.ApiDotNet6.Domain.Entities
 {
-    public class User
+    public sealed class User
     {
         public int Id { get; private set; }
         public string Email { get; private set; }
         public string Password { get; private set; }
+        public ICollection<UserPermission> UserPermissions { get; private set; }
 
         public User(string email, string password)
         {
             Validation(email, password);
+
+            UserPermissions = new List<UserPermission>();
         }
 
         public User(int id, string email, string password)
@@ -20,6 +23,7 @@ namespace RM.ApiDotNet6.Domain.Entities
             Validation(email, password);
 
             Id = id;
+            UserPermissions = new List<UserPermission>();
         }
 
         private void Validation(string email, string password)

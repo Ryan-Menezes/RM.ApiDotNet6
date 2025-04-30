@@ -33,7 +33,7 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
             return await _db.People.ToListAsync();
         }
 
-        public async Task<Person> GetByIdAsync(int id)
+        public async Task<Person?> GetByIdAsync(int id)
         {
             return await _db.People.FirstOrDefaultAsync(x => x.Id == id);
         }

@@ -35,7 +35,7 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
                 .ToListAsync();
         }
 
-        public async Task<Purchase> GetByIdAsync(int id)
+        public async Task<Purchase?> GetByIdAsync(int id)
         {
             var purchase = await _db.Purchases
                 .Include(x => x.Product)

@@ -32,7 +32,7 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
             return await _db.Products.ToListAsync();
         }
 
-        public async Task<Product> GetByIdAsync(int id)
+        public async Task<Product?> GetByIdAsync(int id)
         {
             return await _db.Products.FirstOrDefaultAsync(x => x.Id == id);
         }

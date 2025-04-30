@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RM.ApiDotNet6.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c1075137b35a6f880ccb1845e73eb09df9f4fc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2640762e37b0a4889f2b54ab1ca0a52c55d76fa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RM.ApiDotNet6.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RM.ApiDotNet6.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

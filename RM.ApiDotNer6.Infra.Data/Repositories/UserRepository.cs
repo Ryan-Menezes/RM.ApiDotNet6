@@ -32,7 +32,7 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
             return await _db.Users.ToListAsync();
         }
 
-        public async Task<User> GetByIdAsync(int id)
+        public async Task<User?> GetByIdAsync(int id)
         {
             return await _db.Users.FirstOrDefaultAsync(x => x.Id == id);
         }
@@ -44,9 +44,11 @@ namespace RM.ApiDotNer6.Infra.Data.Repositories
             return user;
         }
 
-        public async Task<User> GetUserByEmailAndPasswordAsync(string email, string password)
+        public async Task<User?> GetUserByEmailAndPasswordAsync(string email, string password)
         {
-            return await _db.Users.FirstOrDefaultAsync(x => x.Email == email && x.Password == password);
+            return await _db.Users
+                .Include(x => x.UserPermissions).ThenInclude(x => x.Permission)
+                .FirstOrDefaultAsync(x => x.Email == email && x.Password == password);
         }
     }
 }
